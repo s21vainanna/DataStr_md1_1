@@ -8,7 +8,7 @@ import datastr.MyStack;
 public class MainService {
 
     public static void main(String[] args) throws FileNotFoundException {
-    	File file = new File("C:\\Users\\annap\\eclipse-workspace\\DataStr_md1_1\\bin\\service\\example1.java");
+    	File file = new File("C:\\Users\\annap\\git\\DataStr_md1_1\\src\\service\\example1.java");
 		Scanner input = new Scanner(file);
 
 		int lineCounter = 0;
